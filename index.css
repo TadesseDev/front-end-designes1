@@ -80,12 +80,15 @@ button.primary {
 .logo img {
   height: 100%;
 }
-.footer-icon {
-  background-color: white;
+.bottom-icons {
   float: right;
-  height: 20px;
+  height: 30px;
+  position: absolute;
+  bottom: 20px;
+  right: 6%;
 }
-.footer-icon img {
+.bottom-icons img {
   height: 100%;
   max-width: 0px 10px;
+  margin: 8px;
 }
